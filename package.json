@@ -1,6 +1,6 @@
 {
   "name": "browser-ry",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Puppeteer Services for Multi-purposes reasons.",
   "main": "main.js",
   "repository": "https://github.com/rypx/BrowserRy.git",
